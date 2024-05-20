@@ -4,7 +4,8 @@ public class ObrigadoAVotar {
       int numero = 10;
       numero++; // aqui número passa a valer 11
       numero--; // aqui número passa a valer 10
-      System.out.println(numero);
+      System.out.println(numero + "Teste");
+
     }
   }
 
